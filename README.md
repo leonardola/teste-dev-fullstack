@@ -57,6 +57,6 @@
 
 
 ## Quando concluir:
-- Envie um email para suporte@imovago.com.br avisando da conclusão
+- Envie um email para suporte@imovago.com.br com o titulo "Teste vaga Imovago" avisando da conclusão e com o link do repositório
 - O repositório deve conter tudo o que é necessário para iniciar o projeto. Por tanto adicione o script de criação do banco de dados
 - Documente no readme.md os passos para que este projeto possa ser testado
