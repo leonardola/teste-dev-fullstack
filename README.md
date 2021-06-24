@@ -55,6 +55,7 @@
 - Crie rotas amigáveis utilizando um htaccess
 - Crie um design elegante
 - Crie e modele o banco de dados utilizando o mysql workbench e adicione o arquivo no repositório
+- Hospede seu código em algum servidor que possa ser acessado publicamente e envie o link no email de conclusão
 
 
 ## Quando concluir:
