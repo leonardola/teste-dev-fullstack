@@ -43,6 +43,7 @@
 - Deve conter os campos nome, login e senha
 
 ## Quer se destacar?
+- Utilize o framework symfony https://symfony.com/
 - Escreva todo o código em inglês deixando apenas os textos em português
 - Crie nomes de funções e váriaveis que sejam fáceis de entender
 - Crie o código de uma forma que seja o máximo reutilizável e fácil de entender
