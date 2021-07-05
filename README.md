@@ -9,7 +9,7 @@
 - bootstrap (https://getbootstrap.com/)
 
 ## Iniciando o projeto:
-- Crie um repositório **privado** com o conteúdo deste repositório no github
+- Crie um repositório **privado** com o nome teste-dev-fullstack-imovago
 - Inclua o usuário leonardola no repositório
 - Configure algum servidor com apache, php e mysql (mamp, lamp, wamp, xamp, wampps, etc)
 - Abra o arquivo index em seu navegador
