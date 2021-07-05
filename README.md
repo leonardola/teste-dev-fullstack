@@ -11,8 +11,7 @@
 ## Iniciando o projeto:
 - Crie um repositório **privado** com o nome teste-dev-fullstack-imovago
 - Inclua o usuário **leonardola** no repositório
-- Configure algum servidor com apache, php e mysql (mamp, lamp, wamp, xamp, wampps, etc)
-- Abra o arquivo index em seu navegador
+- Configure algum servidor com apache, php e mysql (mamp, lamp, wamp, xamp, wampps, etc) em sua máquina local
 
 ## O que precisa ser feito:
 ### Crie uma página com um formulário de cadastro de pessoas
@@ -37,7 +36,7 @@
 ### Dentro do admin crie uma página para listagem de usuários admin
 - Utilize a tabela do bootstrap para isso.
 - Mostre apenas nome e login
-- Permitir remover um usuário
+- Permitir remover usuários
   
 ### Dentro do admin crie uma página para criação de usuários admin
 - Deve conter os campos nome, login e senha
@@ -61,4 +60,4 @@
 ## Quando concluir:
 - Envie um email para suporte@imovago.com.br com o titulo "Teste vaga Imovago" avisando da conclusão e com o link do repositório
 - O repositório deve conter tudo o que é necessário para iniciar o projeto. Por tanto adicione o script de criação do banco de dados
-- Documente no readme.md os passos para que este projeto possa ser testado
+- Documente no **README.md** os passos para que este projeto possa ser testado. Incluindo acesso ao admin
